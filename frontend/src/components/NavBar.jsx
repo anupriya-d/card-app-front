@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
         {/* Logo on the left */}
-        <Link className="navbar-brand" to="/">MyLogo</Link>
+        <Link className="navbar-brand" to="/">Alphine Hikes</Link>
 
         {/* Toggler (burger menu) for mobile */}
         <button
