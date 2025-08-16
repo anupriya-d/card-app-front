@@ -9,7 +9,7 @@ export default function ContactPage() {
     <>
     <NavBar/>
     <div className="container ContactPage">
-     <h2 style={{ padding: '20px' }}>Contact Me</h2>
+     <h2 style={{ padding: '20px',color:'gray' }}>Contact Me</h2>
 
      
     </div>
